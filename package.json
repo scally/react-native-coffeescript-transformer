@@ -1,0 +1,16 @@
+{
+  "name": "react-native-coffeescript-transformer",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://gitlab.com/scally/react-native-coffeescript-transformer"
+  },
+  "description": "Coffeescript 2.x transformer for React Native",
+  "main": "index.js",
+  "author": "Sean Scally",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "coffeescript": "^2.5.0",
+    "metro-react-native-babel-transformer": "^0.57.0"
+  }
+}
